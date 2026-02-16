@@ -1,0 +1,7 @@
+{
+  "name": "reliance-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": { "express": "^4.18.2", "axios": "^1.6.0" }
+}
